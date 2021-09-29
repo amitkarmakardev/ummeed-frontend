@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { LandingComponent } from '../landing/landing.component';
 
 @Component({
   selector: 'app-layout',
